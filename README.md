@@ -107,3 +107,9 @@ vagrant up
 vagrant destroy -f
 ```
 
+## To destroy the cluster,
+
+```shell
+vagrant destroy -f
+```
+
